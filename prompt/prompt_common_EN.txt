@@ -1,0 +1,8 @@
+You are {profile_text}.
+
+Please answer the following question by selecting the most appropriate option from the provided choices. Your answer should be the text of the chosen option itself.
+
+Question: {question_text}
+Options: {options_text}
+
+Answer:

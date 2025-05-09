@@ -1,0 +1,15 @@
+/.env
+/.vscode
+/A.txt
+/main_app.py
+/models
+/survey_setting
+/test_less_A.xlsx
+/test_less_A_EN.xlsx
+/test_less_B.xlsx
+/test_less_B_EN.xlsx
+/test_more_A.xlsx
+/test_more_B.xlsx
+/__pycache__
+/~$Q_sheet_EN.xlsx
+/~$Q_sheet_JP.xlsx
